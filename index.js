@@ -1,5 +1,4 @@
 // Your code here
-/* Your Code Here */
 function createEmployeeRecord(arr){
   let ob = {
         firstName: arr[0],
